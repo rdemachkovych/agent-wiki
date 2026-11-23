@@ -10,9 +10,12 @@ It answers three questions:
 
 The idea comes from Andrej Karpathy's "LLM Knowledge Bases" post: an LLM compiles raw notes into a linked Markdown wiki, keeps it up to date, and runs health checks on it. The wiki is an [Open Knowledge Format v0.3](https://github.com/open-knowledge-format/open-knowledge-format/blob/main/SPEC.md) bundle, so an agent can tell what a page is, where it came from, how far to trust it and whether it is current.
 
+New project, or one with no notes yet: start with [QUICKSTART.md](QUICKSTART.md).
+
 ## What is in the repo
 
 ```
+QUICKSTART.md         install, first notes, existing projects
 skills/wiki/
   SKILL.md            the skill: layout, rules, compile / ask / check
   scripts/lint.py     mechanical check, Python 3.8+, stdlib only
