@@ -3,8 +3,7 @@ type: Answer
 title: Cache vs queue
 description: When I would pick a cache and when a queue, from my own two cases.
 tags: [interview, performance]
-status: stable
-generated: { by: agent/model, at: 2026-02-20T18:00:00+01:00 }
+generated: { by: "claude-code/claude-opus-5-5", at: "2026-02-20T18:00:00+01:00" }
 sources:
   - { id: cache, resource: ../../notes/2026-01-cache/NOTES.md, title: Cache for the product API }
   - { id: queue, resource: ../../notes/2026-02-queue/NOTES.md, title: Queue for invoice e-mails }

@@ -1,3 +1,11 @@
+---
+okf_version: "0.3"
+title: Example wiki
+description: Topics, concepts and answers compiled from two example notes folders. Use it to see the page shapes the wiki skill writes.
+license: Apache-2.0
+x-wiki-sections: [topics, concepts]
+x-wiki-evidence: NOTES.md
+---
 # Wiki
 
 ## Topics

@@ -3,8 +3,7 @@ type: Concept
 title: Baseline first
 description: Measure the number you want to move before you change anything, with the same tool you will measure after.
 tags: [measurement]
-status: stable
-generated: { by: agent/model, at: 2026-02-14T18:00:00+01:00 }
+generated: { by: "claude-code/claude-opus-5-5", at: "2026-02-14T18:00:00+01:00" }
 sources:
   - { id: cache, resource: ../../notes/2026-01-cache/NOTES.md, title: Cache for the product API }
   - { id: queue, resource: ../../notes/2026-02-queue/NOTES.md, title: Queue for invoice e-mails }

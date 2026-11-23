@@ -3,8 +3,7 @@ type: Topic
 title: Caching
 description: What I can show about caching an API, and what is still missing.
 tags: [performance, redis]
-status: stable
-generated: { by: agent/model, at: 2026-01-30T18:00:00+01:00 }
+generated: { by: "claude-code/claude-opus-5-5", at: "2026-01-30T18:00:00+01:00" }
 sources:
   - { id: cache, resource: ../../notes/2026-01-cache/NOTES.md, title: Cache for the product API }
 ---

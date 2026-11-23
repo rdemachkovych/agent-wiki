@@ -3,8 +3,7 @@ type: Topic
 title: Async work
 description: What I can show about moving slow work off the request path with a queue.
 tags: [queues, reliability]
-status: stable
-generated: { by: agent/model, at: 2026-02-14T18:00:00+01:00 }
+generated: { by: "claude-code/claude-opus-5-5", at: "2026-02-14T18:00:00+01:00" }
 sources:
   - { id: queue, resource: ../../notes/2026-02-queue/NOTES.md, title: Queue for invoice e-mails }
 ---
