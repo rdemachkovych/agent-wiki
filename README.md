@@ -1,6 +1,6 @@
 # agent-wiki
 
-An agent skill that keeps a small wiki compiled from your own work notes. The agent writes it, you read it. Every claim carries a footnote back to the notes it came from.
+An agent skill that keeps a small wiki compiled from your own work notes. The agent writes it, you read it. The skill asks the agent to footnote each claim to the notes it came from; the lint checks structure (frontmatter, links, that each page cites a source), not whether a claim matches its source.
 
 It answers three questions:
 
